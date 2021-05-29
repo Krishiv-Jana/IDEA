@@ -1,0 +1,13 @@
+body{
+    text-align:center;
+    background-image:url();
+    background-color:gray;
+}
+img{
+    height:150px;
+    width:150px;
+}
+a{
+    font-size:20px;
+    color:blue;
+}
